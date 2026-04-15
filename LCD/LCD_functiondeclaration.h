@@ -1,0 +1,13 @@
+void INIT_LCD(void);
+void CHAR_LCD(unsigned char c);
+void CMD_LCD(unsigned char cmd);
+void WRITE_LCD(unsigned char c);
+void STRING_LCD(unsigned char *str);
+void integer(unsigned int n);
+void signedinteger(signed int n);
+void FLOAT(float fn,unsigned int ndp);
+void delays(unsigned int n);
+void delayms(unsigned int n);
+void delayus(unsigned int n);
+void HEX_LCD(unsigned int hex);
+void OCT_LCD(unsigned  int oct);

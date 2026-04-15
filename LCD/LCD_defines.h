@@ -1,0 +1,16 @@
+#define CLEAR_LCD 0x01
+#define SHIFT_CUR_RIGHT 0x30
+#define DISP_OFF 0x08
+#define DISP_ON_CUR_OFF 0x0C
+#define DISP_ON_CUR_ON 0X0E
+#define DISP_ON_CUR_BLINK 0x0F
+#define MODE_4_line_1 0x20
+#define MODE_4_line_2 0x28
+#define MODE_8_line_1 0x30
+#define MODE_8_line_2 0x38
+#define GOTO_LINE1_POS_0 0x80
+#define GOTO_LINE2_POS_0 0xc0
+#define DATA_PINS 16
+#define RS 8
+#define RW 9
+#define EN 10
