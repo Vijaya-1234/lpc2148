@@ -1,9 +1,12 @@
 # LPC2148 Embedded C Projects
 
+🚀 Hands-on embedded projects using LPC2148 covering real-time interfacing and peripheral control.
+
+---
+
 ## 📌 Overview
 
-This repository contains a collection of Embedded C programs developed for the LPC2148 microcontroller.
-It demonstrates various peripheral interfacing and real-time applications using Proteus simulation.
+This repository contains a collection of Embedded C programs developed for the LPC2148 microcontroller. It demonstrates various peripheral interfacing and real-time applications using Proteus simulation.
 
 ---
 
@@ -23,11 +26,11 @@ It demonstrates various peripheral interfacing and real-time applications using 
 
 ```
 lpc2148/
- ├── 7_SEGMENT/        -> Programs related to 7-segment display
- ├── LCD/              -> LCD interfacing programs
- ├── LED/              -> LED control programs
- ├── Matrix_keypad/    -> Keypad-based applications (calculator etc.)
- ├── PROTEUS/          -> Simulation videos and circuit designs
+ ├── 7_SEGMENT/
+ ├── LCD/
+ ├── LED/
+ ├── Matrix_keypad/
+ ├── PROTEUS/
 ```
 
 ---
@@ -43,16 +46,16 @@ lpc2148/
 
 ---
 
-## ▶️ Simulation
+## 🎥 Demo Videos
 
-Proteus simulation videos are available in the `PROTEUS` folder.
+Simulation videos are available in the `PROTEUS` folder.
 
 ---
 
 ## 🛠️ Tools Used
 
-* Keil µVision (Embedded C programming)
-* Proteus 8 (Simulation)
+* Keil µVision
+* Proteus 8
 * LPC2148 Microcontroller
 
 ---
@@ -68,7 +71,9 @@ Proteus simulation videos are available in the `PROTEUS` folder.
 
 ## 👨‍💻 Author
 
-Vijaya
+**Vijaya**
+Embedded Systems Enthusiast
+GitHub: https://github.com/Vijaya-1234
 
 ---
 
