@@ -31,6 +31,9 @@ lpc2148/
  ├── LED/
  ├── Matrix_keypad/
  ├── PROTEUS/
+ ├── UART/
+ ├── INTERRUPTS/
+
 ```
 
 ---
@@ -43,7 +46,11 @@ lpc2148/
 * RTC Time Display on LCD
 * 7-Segment Counter (0–9, 0–99)
 * LED Binary Display
-
+* UART Interrupt-polling
+* UART Interrupt with FIFO
+* UART Interrupt with FIFO+Ring buffer
+* Exteranal Interrupts
+* Timer Interrupts
 ---
 
 ## 🎥 Demo Videos
